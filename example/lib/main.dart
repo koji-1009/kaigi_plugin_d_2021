@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       darkTheme: darkTheme,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin d demo'),
+          title: const Text('kaigi plugin d 2021'),
         ),
         body: const ScreenCounter(),
       ),
